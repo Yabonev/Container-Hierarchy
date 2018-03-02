@@ -1,0 +1,9 @@
+﻿  ContainerHierarchy.cpp
+  Generating code
+c:\users\sarah\desktop\сдп\container_hierarchy\container_hierarchy\h_container.h(115): warning C4715: 'HeterogeneousContainer<int>::add_container': not all control paths return a value
+  86 of 218 functions (39.4%) were compiled, the rest were copied from previous compilation.
+    62 functions were new in current compilation
+    50 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Container_Hierarchy.vcxproj -> C:\Users\Sarah\Desktop\СДП\Container_Hierarchy\Release\Container_Hierarchy.exe
+  Container_Hierarchy.vcxproj -> C:\Users\Sarah\Desktop\СДП\Container_Hierarchy\Release\Container_Hierarchy.pdb (Full PDB)
